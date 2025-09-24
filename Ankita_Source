@@ -1,0 +1,19 @@
+what is git?
+It is a version control system. It helps developers track changes in code and collaborate with others.
+
+what is github?
+It is a plaform for hosting and sharing code using git version control. 
+
+Software Development Life Cycle
+
+It is a step by step procedure to develop a new software.
+there are 7 phases of it
+1 Requirement analysis - in this phase busines analyst collect the data from customer
+2 planning- In this phase business analyst or project manager will do feasibility study (feasability study means they will discuss about,can we do this? how much money it will require? how many people do we need?)
+3 Design- In this phase architecture will design the software & this process is divided into two parts
+        1.High Level Design-
+         2. Low Level Design
+4 Coding- This phase is done by developers & the actual development of the product starts
+5 Testing- In this phase Testsres will check the developed product is as per requirements.
+6 Deployment- In this phase software product is given to the end user (customer)
+7 Maintanance- In this phase we will fix issue and provide any new update after release
